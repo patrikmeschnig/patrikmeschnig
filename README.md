@@ -2,10 +2,23 @@
 
 I'm **Patrik**, a software engineering student at **HTL Villach** based in Austria.
 
-I design and build digital solutions with a focus on web development and clean architecture. If an idea pops into my head, I try to build it.
+I specialize in architecting digital solutions with a dedicated focus on modern web development and clean code principles. I pride myself on transforming complex concepts into seamless, functional applications.
 
-### 🛠 My Tech Stack
+### 🛠️ My Tech Stack
 * **Languages:** Java, Python, JavaScript, SQL (PL/SQL, NoSQL)
-* **Web & Design:** HTML/CSS, Responsive Design, Photoshop
+* **Web & Design:** HTML/CSS, Responsive Designs, Photoshop
 * **Systems:** Linux, Windows, Raspberry Pi
 * **Focus:** Software Engineering, Cloud Development & AI
+
+### 🎓 Academic Journey & Focus
+Currently enrolled at **HTL Villach (Informatik)**, my curriculum is centered around professional software engineering and project management (SCRUM). I am particularly focused on:
+* **Cloud Computing & AI**
+* **Agile Project Management**
+* **Full-Stack Web Development**
+
+### ⚡ Fun Facts & Personal Interests
+* 🎬 **Cinematic Favorites:** Myy favorite series are *Peaky Blinders* and *Gomorrah*.
+* 🏔️ **Outdoor Professional:** Passionate about skiing, hiking, and mountain biking in my home mountains.
+* ☕ **Developer Fuel:** Turning caffeine into clean code.
+---
+**Feel free to explore my repositories**
