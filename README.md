@@ -2,7 +2,7 @@
 
 I'm **Patrik**, a software engineering student at **HTL Villach** based in Austria.
 
-I specialize in architecting digital solutions with a dedicated focus on modern web development and clean code principles. I pride myself on transforming complex concepts into seamless, functional applications.
+I specialize in architecting digital solutions with a dedicated focus on modern web development and clean code principles.
 
 ### 🛠️ My Tech Stack
 * **Languages:** Java, Python, JavaScript, SQL (PL/SQL, NoSQL)
