@@ -16,8 +16,8 @@ Currently enrolled at **HTL Villach (Informatik)**, my curriculum is centered ar
 * **Agile Project Management**
 * **Full-Stack Web Development**
 
-### ⚡ Fun Facts & Personal Interests
-* 🎬 **Cinematic Favorites:** Myy favorite series are *Peaky Blinders* and *Gomorrah*.
+### ⚡ Personal Interests
+* 🎬 **Cinematic Favorites:** My favorite series is *Peaky Blinders*.
 * 🏔️ **Outdoor Professional:** Passionate about skiing, hiking, and mountain biking in my home mountains.
 ---
 **Feel free to explore my repositories**
