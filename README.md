@@ -19,6 +19,5 @@ Currently enrolled at **HTL Villach (Informatik)**, my curriculum is centered ar
 ### ⚡ Fun Facts & Personal Interests
 * 🎬 **Cinematic Favorites:** Myy favorite series are *Peaky Blinders* and *Gomorrah*.
 * 🏔️ **Outdoor Professional:** Passionate about skiing, hiking, and mountain biking in my home mountains.
-* ☕ **Developer Fuel:** Turning caffeine into clean code.
 ---
 **Feel free to explore my repositories**
